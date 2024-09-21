@@ -1,0 +1,11 @@
+li , p b {
+    font-size: 20px;
+}
+.big-text{font-size: 30px;}
+#green, h1 {color:green}
+ p>i {color: yellow}
+ h2 + p {text-align: right;}
+ .big-text~li {color:blueviolet}
+
+ body p b.big-text {color:aqua !important} 
+ p b.big-text.pink {color: red !important;}
